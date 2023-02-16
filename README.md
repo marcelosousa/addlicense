@@ -23,6 +23,7 @@ to any file that already has one.
 The pattern argument can be provided multiple times, and may also refer
 to single files.
 
+
 ## Running in a Docker Container
 
 - Clone the repository using `git clone https://github.com/google/addlicense.git`
