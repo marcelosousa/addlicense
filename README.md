@@ -8,6 +8,7 @@ to any file that already has one.
 
 ## install
 
+
     go get -u github.com/marcelosousa/addlicense
 
 ## usage
