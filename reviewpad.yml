@@ -2,7 +2,7 @@ workflows:
   - name: Pull request title workflow
     run:
       - $titleLint()
-      - $addLabel($sprintf("%s", $subMatchesString("\[(\\w+)\]$", $title())))
+      - $addLabel($sprintf("%s", $subMatchesString("\[(\w+)\]$", $title())))
 
   - name: Check product pledge checklist
     run:
