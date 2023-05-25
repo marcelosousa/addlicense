@@ -6,6 +6,7 @@ by scanning directory patterns recursively.
 It modifies all source files in place and avoids adding a license header
 to any file that already has one.
 
+
 ## install
 
     go get -u github.com/google/addlicense
