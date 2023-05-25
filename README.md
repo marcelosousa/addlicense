@@ -12,6 +12,7 @@ to any file that already has one.
 
 ## usage
 
+
     addlicense [flags] pattern [pattern ...]
 
     -c copyright holder (defaults to "Google LLC")
